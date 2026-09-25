@@ -60,7 +60,6 @@
     width="100%"
   />
 </p>
-</p>
 
 ---
 <p align="center"><i>Made with 💛 by <a href="https://github.com/KirtiSaini07">KirtiSaini07</a></i></p>
