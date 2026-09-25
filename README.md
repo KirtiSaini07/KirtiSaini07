@@ -53,13 +53,7 @@
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://gh-stats-xcards.vercel.app/api/card?username=KirtiSaini07&card=contribution-graph&theme=radical"
-    alt="Kirti's Contribution Activity"
-    width="100%"
-  />
-</p>
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KirtiSaini07&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" /> </p>
 
 ---
 <p align="center"><i>Made with 💛 by <a href="https://github.com/KirtiSaini07">KirtiSaini07</a></i></p>
