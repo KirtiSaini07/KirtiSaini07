@@ -55,10 +55,11 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirtiSaini07&theme=radical"
-    alt="GitHub Contribution Graph"
+    src="https://gh-stats-xcards.vercel.app/api/card?username=KirtiSaini07&card=contribution-graph&theme=radical"
+    alt="Kirti's Contribution Activity"
     width="100%"
   />
+</p>
 </p>
 
 ---
